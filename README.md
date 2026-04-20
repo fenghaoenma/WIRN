@@ -6,8 +6,7 @@ Wavelet Iterative Reconstruction Network for Sparse Projection Domain CT
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-red.svg)](https://pytorch.org/)
 
-> **Official PyTorch Implementation of the paper:** > *"[Insert Your Exact Paper Title Here]"* > [Insert Author Names]  
-> [Insert Link to Paper/ArXiv if available]
+> **Official PyTorch Implementation of the paper:** > *"Wavelet Iterative Reconstruction Network for Sparse Projection Domain CT"* > 
 
 ## 📢 News
 * **[Date]**: The code and pre-trained models will be fully released upon the paper's acceptance. Stay tuned!
@@ -21,7 +20,6 @@ Wavelet Iterative Reconstruction Network for Sparse Projection Domain CT
 * **Robust Evaluation:** Extensively validated on both public (AAPM) and large-scale clinical (Xiangya) datasets using PSNR and SSIM metrics.
 
 ---
-
 ## 🛠️ Installation
 
 1. Clone the repository:
