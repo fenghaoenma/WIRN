@@ -20,5 +20,5 @@ Wavelet Iterative Reconstruction Network for Sparse Projection Domain CT
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/fenghaoenma/WIRN.git](https://github.com/fenghaoenma/WIRN.git)
+   git clone https://github.com/fenghaoenma/WIRN.git
    cd WIRN
