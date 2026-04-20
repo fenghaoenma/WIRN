@@ -2,10 +2,6 @@
 Wavelet Iterative Reconstruction Network for Sparse Projection Domain CT
 # WIRN: Projection-Centric Iterative Reconstruction Framework
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-red.svg)](https://pytorch.org/)
-
 > **Official PyTorch Implementation of the paper:** > *"Wavelet Iterative Reconstruction Network for Sparse Projection Domain CT"* > 
 
 ## 📢 News
